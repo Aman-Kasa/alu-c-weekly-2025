@@ -1,4 +1,13 @@
 #include<stdio.h>
+/*
+InPairs: WriteaCprogram that acts asa simple
+calculator with modular functions: add,subtract
+andmmlltipyy Each operation will beimplemented
+asaseparate function. Once the user entersan
+equalsign, theywill see the right answer.
+
+Note: play differentroles- one writes, theother
+reviews*/////////////////////
 
 // Function declarations
 float add(float x, float y);
